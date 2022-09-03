@@ -9,7 +9,7 @@ This repo consists of my Internship tasks in LetsGrowMore Virtual Internship Pro
 
 * The iris flowers dataset contains numeric attributes, and it is perfect for beginners to learn about supervised ML algorithms, mainly how to load and handle data. Also, since this is a small dataset, it can easily fit in memory without requiring special transformations or scaling capabilities.
 
-* Dataset link : http://archive.ics.uci.edu/ml/datasets/Iris
+* Dataset link : https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
 
 **Task 3 - Music Recommendation System**
 
