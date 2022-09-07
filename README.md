@@ -11,11 +11,9 @@ This repo consists of my Internship tasks in LetsGrowMore Virtual Internship Pro
 
 * Dataset link : https://drive.google.com/file/d/11Iq7YvbWZbt8VXjfm06brx66b10YiwK-/view
 
-**Task 3 - Music Recommendation System**
+**Task 2 - Stock Market Prediction And Forecasting Using Stacked LSTM**
 
-* Built a Music recommender systems can suggest songs to users based on their listening patterns.
-
-* Dataset Link : https://www.kaggle.com/c/kkbox-music-recommendation-challenge/data
+* Dataset Link : https://raw.githubusercontent.com/mwitiderrick/stockprice/master/NSE-TATAGLOBAL.csv
 
 > Intermediate Level Task
 
